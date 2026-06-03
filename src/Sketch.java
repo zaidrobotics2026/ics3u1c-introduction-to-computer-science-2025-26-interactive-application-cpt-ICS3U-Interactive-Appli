@@ -37,8 +37,6 @@ public class Sketch extends PApplet {
     // float bg3X = 300;
 
     int gameState = 0;
-
-    int[] obstacleY = new int{20, 40, 60, 100, 150};
     
 
     
